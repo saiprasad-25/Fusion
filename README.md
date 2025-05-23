@@ -1,2 +1,2 @@
 # Fusion
-Company
+Company Name
